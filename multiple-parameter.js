@@ -1,26 +1,26 @@
 
-// function addTwonmber(number1, number2) {
-//    var total = number1 + number2;
-//    return total;
-// }
+function addTwonmber(number1, number2) {
+    var total = number1 + number2;
+    return total;
+}
 
-// var first1 = addTwonmber(10, 20);
+var first1 = addTwonmber(10, 20);
 
 
-// console.log("Total sum  = "  + first1);
+console.log("Total sum  = " + first1);
 
-// var multiplyTwo = first1 * 2;
-// console.log("Multipluy Value = " + multiplyTwo)
+var multiplyTwo = first1 * 2;
+console.log("Multipluy Value = " + multiplyTwo)
 
-// function addTwonmber(number1, number2) {
-//     var total = number1 + number2;
-//     return total;
-// }
-// var first1 = addTwonmber(25, 35);
+function addTwonmber(number1, number2) {
+    var total = number1 + number2;
+    return total;
+}
+var first1 = addTwonmber(25, 35);
 
-// console.log("Total sum=" + first1);
-// var difference = first1 - 2;
-// console.log('Difference=' + difference);
+console.log("Total sum=" + first1);
+var difference = first1 - 2;
+console.log('Difference=' + difference);
 
 function subjectsMarks(subject1, subject2, subject3, subject4, subject5) {
     var totalMarks = subject1 + subject2 + subject3 + subject4 + subject5;
